@@ -14,7 +14,11 @@ in the QR code printed on the poster.
 | File | What it is |
 |---|---|
 | `index.html` | The landing page the poster's QR code points at |
-| `poster_879.pdf` | The A0 poster, live text, no raster images |
+| `poster_879.pdf` | The A0 poster, 841 × 1189 mm, live text throughout |
+
+The only raster element is the Cairnmillar Institute logo, embedded losslessly at
+376 dpi at final print size. Everything else — including the chart bars and the QR
+code — is native vector.
 
 ## Changing anything here
 
